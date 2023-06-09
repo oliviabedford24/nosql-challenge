@@ -1,4 +1,4 @@
-# nosql-challenge
+# nosql-restaurant-analysis
 
 This is the Module 12 Challenge for Rice University's Data Science & Visualization Bootcamp. In this challenge, we used MongoCompass to read and analyze data about various restaurants in the UK.
 
