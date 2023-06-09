@@ -8,6 +8,6 @@ Part two of the challenge (contained in the 'NOSQL_analysis' file) involved maki
 
 The 'Resources' folder contains the raw data about UK restaurants that we used in this project. To make this raw data easier to utilize, we fed it into Mongo DB through the Terminal. 
 
-The code contained in this repository is my work and mine alone. I received advice and input from Rice's team of instructors and tutors, but the work itself is mine. 
+The code contained in this repository is my work and mine alone. 
 
-:)
+Thank you!
